@@ -1,0 +1,23 @@
+
+
+
+$ git init
+
+$ git config --global user.email "akpovo1997@gmail.com"
+
+$ git config --global user.name "roland9720"
+
+$ git remote add origin https://github.com/roland9720/git-test.git
+
+$ git status
+
+$ git add . /*add all file  */
+
+$ git status
+
+$ git push -u origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+
+$ git log
+
